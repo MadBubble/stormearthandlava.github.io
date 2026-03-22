@@ -33,17 +33,11 @@ far_sight: <a href="https://www.wowhead.com/spell=6196" target="blank">Far Sight
 flame_shock: <a href="https://www.wowhead.com/spell=188389" target="blank">Flame Shock</a>
 fs: <a href="https://www.wowhead.com/spell=188389" target="blank">Flame Shock</a>
 
-flametongue_weapon: <a href="https://www.wowhead.com/spell=318038/flametongue-weapon" target="blank">Flametongue Weapon</a>
-ftw: <a href="https://www.wowhead.com/spell=318038/flametongue-weapon" target="blank">Flametongue Weapon</a>
-
 ghost_wolf: <a href="https://www.wowhead.com/spell=2645" target="blank">Ghost Wolf</a>
 
 healing_surge: <a href="https://www.wowhead.com/spell=8004" target="blank">Healing Surge</a>
 
 inundate: <a href="https://www.wowhead.com/spell=378776/inundate" target="blank">Inundate</a>
-
-lava_beam: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-lvbm: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
 
 lava_surge: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
 lvs: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
@@ -69,10 +63,10 @@ afs: <a href="https://www.wowhead.com/spell=273221" target="blank">Aftershock</a
 ascendance: <a href="https://www.wowhead.com/spell=114050" target="blank">Ascendance</a>
 asc: <a href="https://www.wowhead.com/spell=114050" target="blank">Ascendance</a>
 
-deeply_rooted_elements: <a href="https://www.wowhead.com/spell=378270/deeply-rooted-elements" target="blank">Deeply Rooted Elements</a>
-dre: <a href="https://www.wowhead.com/spell=378270/deeply-rooted-elements" target="blank">Deeply Rooted Elements</a>
-
 charged_conduit: <a href="https://www.wowhead.com/spell=468625" target="blank">Charged Conduit</a>
+
+crackling_fury: <a href="https://www.wowhead.com/spell=1269215/crackling-fury?def=132723&rank=1" target="blank">Crackling Fury</a>
+crackling_fury_rank_2: <a href="https://www.wowhead.com/spell=1269215/crackling-fury?def=132723&rank=2" target="blank">Crackling Fury</a>
 
 earth_shock: <a href="https://www.wowhead.com/spell=8042" target="blank">Earth Shock</a>
 es: <a href="https://www.wowhead.com/spell=8042" target="blank">Earth Shock</a>
@@ -88,24 +82,16 @@ eq_targeted: <a href="https://www.wowhead.com/beta/spell=462620/earthquake" targ
 
 echo_chamber: <a href="https://www.wowhead.com/spell=382032/echo-chamber" target="blank">Echo Chamber</a>
 
-echoes_of_great_sundering: <a href="https://www.wowhead.com/spell=384087/echoes-of-great-sundering" target="blank">Echoes of Great Sundering</a>
-eogs: <a href="https://www.wowhead.com/spell=384087/echoes-of-great-sundering" target="blank">Echoes of Great Sundering</a>
-
 echo_of_the_elements: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
 eote: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
 echo: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
 
-echo_of_the_elementals: <a href="https://www.wowhead.com/beta/spell=462864/echo-of-the-elementals" target="blank">Echo of the Elementals</a>
-
 elemental_blast: <a href="https://www.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
 eb: <a href="https://www.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
 
-elemental_equilibrium: <a href="https://www.wowhead.com/spell=378271/elemental-equilibrium" target="blank">Elemental Equilibrium</a>
-eeq: <a href="https://www.wowhead.com/spell=378271/elemental-equilibrium" target="blank">Elemental Equilibrium</a>
-
 elemental_unity: <a href="https://www.wowhead.com/beta/spell=462866/elemental-unity" target="blank">Elemental Unity</a>
 
-erupting_lava: <a href="https://www.wowhead.com/beta/spell=468574/erupting-lava" target="blank">Erupting Lava</a>
+earthshatter: <a href="https://www.wowhead.com/spell=468626/earthshatter" target="blank">Earthshatter</a>
 
 everlasting_elements: <a href="https://www.wowhead.com/beta/spell=462867/everlasting-elements" target="blank">Everlasting Elements</a>
 
@@ -120,39 +106,29 @@ fe_2: <a href="https://www.wowhead.com/spell=343226/" target="blank">Fire Elemen
 
 first_ascendant: <a href="https://www.wowhead.com/beta/spell=462440/first-ascendant" target="blank">First Ascendant</a>
 
+flametongue_weapon: <a href="https://www.wowhead.com/spell=318038/flametongue-weapon" target="blank">Flametongue Weapon</a>
+ftw: <a href="https://www.wowhead.com/spell=318038/flametongue-weapon" target="blank">Flametongue Weapon</a>
+
 flames_of_the_cauldron: <a href="https://www.wowhead.com/spell=378266/flames-of-the-cauldron" target="blank">Flames of the Cauldron</a>
+
+flames_of_the_firelord: <a href="https://www.wowhead.com/spell=381784/flames-of-the-firelord" target="blank">Flames of the Firelord</a>
 
 flash_of_lightning: <a href="https://www.wowhead.com/spell=381936/flash-of-lightning" target="blank">Flash of Lightning</a>
 fol: <a href="https://www.wowhead.com/spell=381936/flash-of-lightning" target="blank">Flash of Lightning</a>
-
-flow_of_power: <a href="https://www.wowhead.com/spell=385923/flow-of-power" target="blank">Flow of Power</a>
-
-flux_melting: <a href="https://www.wowhead.com/spell=381776/flux-melting" target="blank">Flux Melting</a>
-fm: <a href="https://www.wowhead.com/spell=381776/flux-melting" target="blank">Flux Melting</a>
 
 fury_of_the_storms: <a href="https://www.wowhead.com/beta/spell=191717/fury-of-the-storms" target="blank">Fury of the Storms</a>
 
 fusion_of_elements: <a href="https://www.wowhead.com/beta/spell=462840/fusion-of-elements" target="blank">Fusion of Elements</a>
 
-icefury: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
-if: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
-
-improved_flametongue_weapon: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
-imp_flametongue_weapon: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
-imp_ftw: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
+lava_flows: <a href="https://www.wowhead.com/spell=1273485/lava-flows" target="blank">Lava Flows</a>
 
 lightning_capacitor: <a href="https://www.wowhead.com/beta/spell=462862/lightning-conduit" target="blank">Lightning Conduit</a>
 
 lightning_rod: <a href="https://www.wowhead.com/spell=210689/lightning-rod" target="blank">Lightning Rod</a>
 lr: <a href="https://www.wowhead.com/spell=210689/lightning-rod" target="blank">Lightning Rod</a>
 
-liquid_magma_totem: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
-lmt: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
-
 master_of_the_elements: <a href="https://www.wowhead.com/spell=16166" target="blank">Master of the Elements</a>
 mote: <a href="https://www.wowhead.com/spell=16166" target="blank">Master of the Elements</a>
-
-magma_chamber: <a href="https://www.wowhead.com/spell=381932/magma-chamber" target="blank">Magma Chamber</a>
 
 mountains_will_fall: <a href="https://www.wowhead.com/spell=381726/mountains-will-fall" target="blank">Mountains Will Fall</a>
 mwf: <a href="https://www.wowhead.com/spell=381726/mountains-will-fall" target="blank">Mountains Will Fall</a>
@@ -167,19 +143,10 @@ pe: <a href="https://www.wowhead.com/spell=117013" target="blank">Primal Element
 
 primordial_fury: <a href="https://www.wowhead.com/spell=378193/primordial-fury" target="blank">Primordial Fury</a>
 
-primordial_wave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
-pw: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
-pwave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+purging_flames: <a href="https://www.wowhead.com/spell=1259471/purging-flames" target="blank">Purging Flames</a>
 
 searing_flames: <a href="https://www.wowhead.com/spell=381782/searing-flames" target="blank">Searing Flames</a>
 sf: <a href="https://www.wowhead.com/spell=381782/searing-flames" target="blank">Searing Flames</a>
-
-skybreakers_fiery_demise: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
-sfd: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
-skyb: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
-
-splintered_elements: <a href="https://www.wowhead.com/spell=382042/splintered-elements" target="blank">Splintered Elements</a>
-splinter: <a href="https://www.wowhead.com/spell=382042/splintered-elements" target="blank">Splintered Elements</a>
 
 storm_elemental: <a href="https://www.wowhead.com/spell=192249" target="blank">Storm Elemental</a>
 se: <a href="https://www.wowhead.com/spell=192249" target="blank">Storm Elemental</a>
@@ -189,22 +156,13 @@ storm_frenzy: <a href="https://www.wowhead.com/beta/spell=462695/storm-frenzy" t
 stormkeeper: <a href="https://www.wowhead.com/spell=191634" target="blank">Stormkeeper</a>
 sk: <a href="https://www.wowhead.com/spell=191634" target="blank">Stormkeeper</a>
 
-surge_of_power: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
-sop: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
-
 swelling_maelstrom: <a href="https://www.wowhead.com/spell=381707/swelling-maelstrom" target="blank">Swelling Maelstrom</a>
 
 thunderstrike_ward: <a href="https://www.wowhead.com/beta/spell=462757/thunderstrike-ward" target="blank">Thunderstrike Ward</a>
 
-unrelenting_calamity: <a href="https://www.wowhead.com/spell=382685/unrelenting-calamity" target="blank">Unrelenting Calamity</a>
+voltaic_blaze: <a href="https://www.wowhead.com/spell=470057/voltaic-blaze?spellModifier=137040:343725" target="blank">Voltaic Blaze</a>
 
 # Class Tree
-ancestral_defense: <a href="https://www.wowhead.com/spell=382947/ancestral-defense" target="blank">Ancestral Defense</a>
-ancestral_defence: <a href="https://www.wowhead.com/spell=382947/ancestral-defense" target="blank">Ancestral Defense</a>
-
-ancestral_guidance: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
-ag: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
-
 ancestral_wolf_affinity: <a href="https://www.wowhead.com/spell=382197/ancestral-wolf-affinity" target="blank">Ancestral Wolf Affinity</a>
 awa: <a href="https://www.wowhead.com/spell=382197/ancestral-wolf-affinity" target="blank">Ancestral Wolf Affinity</a>
 
@@ -280,8 +238,6 @@ lvb: <a href="https://www.wowhead.com/spell=51505" target="blank">Lava Burst</a>
 lava_burst_rank_2: <a href="https://www.wowhead.com/spell=231721" target="blank">Lava Burst Rank 2</a>
 lvb_2: <a href="https://www.wowhead.com/spell=231721" target="blank">Lava Burst Rank 2</a>
 
-lightning_lasso: <a href="https://www.wowhead.com/spell=305483/lightning-lasso" target="blank">Lightning Lasso</a>
-
 mana_spring: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring</a>
 ms: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring</a>
 
@@ -310,9 +266,6 @@ sw: <a href="https://www.wowhead.com/spell=260878" target="blank">Spirit Wolf</a
 
 static_charge: <a href="https://www.wowhead.com/spell=265046" target="blank">Static Charge</a>
 
-stone_bulwark_totem: <a href="https://www.wowhead.com/beta/spell=108270/stone-bulwark-totem" target="blank">Stone Bulwark Totem</a>
-sbt: <a href="https://www.wowhead.com/beta/spell=108270/stone-bulwark-totem" target="blank">Stone Bulwark Totem</a>
-
 spirit_walk: <a href="https://www.wowhead.com/spell=58875/spirit-walk" target="blank">Spirit Walk</a>
 
 spiritwalkers_aegis: <a href="https://www.wowhead.com/spell=378077/spiritwalkers-aegis" target="blank">Spiritwalker's Aegis</a>
@@ -324,19 +277,13 @@ therazanes_resilience: <a href="https://www.wowhead.com/spell=1217622/therazanes
 
 thunderous_paws: <a href="https://www.wowhead.com/spell=378075/thunderous-paws" target="blank">Thunderous Paws</a>
 
-thundershock: <a href="https://www.wowhead.com/spell=378779/thundershock" target="blank">Thundershock</a>
-
 thunderstorm: <a href="https://www.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
 
 totemic_focus: <a href="https://www.wowhead.com/spell=382201/totemic-focus" target="blank">Totemic Focus</a>
 
 totemic_projection: <a href="https://www.wowhead.com/spell=108287/totemic-projection" target="blank">Totemic Projection</a>
 
-totemic_recall: <a href="https://www.wowhead.com/spell=108285/totemic-recall" target="blank">Totemic Recall</a>
-
 totemic_surge: <a href="https://www.wowhead.com/spell=381867/totemic-surge" target="blank">Totemic Surge</a>
-
-traveling_storms: <a href="https://www.wowhead.com/spell=204403" target="blank">Traveling Storms</a>
 
 tremor_totem: <a href="https://www.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
 
@@ -361,6 +308,8 @@ counterstrike_totem: <a href="https://www.wowhead.com/spell=204331" target="blan
 
 grounding_totem: <a href="https://www.wowhead.com/spell=204336" target="blank">Grounding Totem</a>
 
+lightning_lasso: <a href="https://www.wowhead.com/spell=305483/lightning-lasso" target="blank">Lightning Lasso</a>
+
 precognition: <a href="https://www.wowhead.com/spell=377360/precognition" target="blank">Precognition</a>
 
 skyfury_totem: <a href="https://www.wowhead.com/spell=204330" target="blank">Skyfury Totem</a>
@@ -374,6 +323,11 @@ unleash_shield: <a href="https://www.wowhead.com/spell=356736/unleash-shield" ta
 volcanic_surge: <a href="https://www.wowhead.com/spell=408572/volcanic-surge" target="blank">Volcanic Surge</a>
 
 # OLD TALENTS // DEPRECATED // REMOVED
+ancestral_defence: <a href="https://www.wowhead.com/spell=382947/ancestral-defense" target="blank">Ancestral Defense</a>
+
+ancestral_guidance: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
+ag: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
+
 call_of_fire: <a href="https://www.wowhead.com/spell=378255/call-of-fire" target="blank">Call of Fire</a>
 
 call_of_thunder: <a href="https://www.wowhead.com/spell=378241/call-of-thunder" target="blank">Call of Thunder</a>
@@ -384,15 +338,33 @@ ctt: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="bla
 control_of_lava: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 col: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 
+deeply_rooted_elements: <a href="https://www.wowhead.com/spell=378270/deeply-rooted-elements" target="blank">Deeply Rooted Elements</a>
+dre: <a href="https://www.wowhead.com/spell=378270/deeply-rooted-elements" target="blank">Deeply Rooted Elements</a>
+
+echo_of_the_elementals: <a href="https://www.wowhead.com/beta/spell=462864/echo-of-the-elementals" target="blank">Echo of the Elementals</a>
+
+echoes_of_great_sundering: <a href="https://www.wowhead.com/spell=384087/echoes-of-great-sundering" target="blank">Echoes of Great Sundering</a>
+eogs: <a href="https://www.wowhead.com/spell=384087/echoes-of-great-sundering" target="blank">Echoes of Great Sundering</a>
+
 echoing_shock: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
 ecs: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
 
 electrified_shocks: <a href="https://www.wowhead.com/spell=382086/electrified-shocks" target="blank">Electrified Shocks</a>
 e_shocks: <a href="https://www.wowhead.com/spell=382086/electrified-shocks" target="blank">Electrified Shocks</a>
 
+elemental_equilibrium: <a href="https://www.wowhead.com/spell=378271/elemental-equilibrium" target="blank">Elemental Equilibrium</a>
+eeq: <a href="https://www.wowhead.com/spell=378271/elemental-equilibrium" target="blank">Elemental Equilibrium</a>
+
 enfeeblement: <a href="https://www.wowhead.com/spell=378079/enfeeblement" target="blank">Enfeeblement</a>
 
+erupting_lava: <a href="https://www.wowhead.com/beta/spell=468574/erupting-lava" target="blank">Erupting Lava</a>
+
 exposed_elements: <a href="https://shadowlands.wowhead.com/spell=260694" target="blank">Exposed Elements</a>
+
+flow_of_power: <a href="https://www.wowhead.com/spell=385923/flow-of-power" target="blank">Flow of Power</a>
+
+flux_melting: <a href="https://www.wowhead.com/spell=381776/flux-melting" target="blank">Flux Melting</a>
+fm: <a href="https://www.wowhead.com/spell=381776/flux-melting" target="blank">Flux Melting</a>
 
 flurry: <a href="https://www.wowhead.com/spell=382888/flurry" target="blank">Flurry</a>
 
@@ -403,10 +375,25 @@ fb: <a href="https://www.wowhead.com/spell=381787/further-beyond" target="blank"
 
 go_with_the_flow: <a href="https://www.wowhead.com/spell=381678/go-with-the-flow" target="blank">Go with the Flow</a>
 
+icefury: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
+if: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
+
+improved_flametongue_weapon: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
+imp_flametongue_weapon: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
+imp_ftw: <a href="https://www.wowhead.com/spell=382027/improved-flametongue-weapon" target="blank">Improved Flametongue Weapon</a>
+
 imp_lightning_bolt: <a href="https://www.wowhead.com/spell=381674/improved-lightning-bolt" target="blank">Improved Lightning Bolt</a>
+
+lava_beam: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
+lvbm: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
+
+liquid_magma_totem: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
+lmt: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
 
 maelstrom_weapon: <a href="https://www.wowhead.com/spell=187880/maelstrom-weapon" target="blank">Maelstrom Weapon</a>
 msw: <a href="https://www.wowhead.com/spell=187880/maelstrom-weapon" target="blank">Maelstrom Weapon</a>
+
+magma_chamber: <a href="https://www.wowhead.com/spell=381932/magma-chamber" target="blank">Magma Chamber</a>
 
 oath_of_the_far_seer: <a href="https://www.wowhead.com/spell=381785/oath-of-the-far-seer" target="blank">Oath of the Far Seer</a>
 ootfs: <a href="https://www.wowhead.com/spell=381785/oath-of-the-far-seer" target="blank">Oath of the Far Seer</a>
@@ -417,7 +404,24 @@ primordial_surge: <a href="https://www.wowhead.com/spell=386474/primordial-surge
 ps: <a href="https://www.wowhead.com/spell=386474/primordial-surge" target="blank">Primordial Surge</a>
 psurge: <a href="https://www.wowhead.com/spell=386474/primordial-surge" target="blank">Primordial Surge</a>
 
+primordial_wave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+pw: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+pwave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+
 rolling_magma: <a href="https://www.wowhead.com/spell=386443/rolling-magma" target="blank">Rolling Magma</a>
+
+skybreakers_fiery_demise: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
+sfd: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
+skyb: <a href="https://www.wowhead.com/spell=378310/skybreakers-fiery-demise" target="blank">Skybreaker's Fiery Demise</a>
+
+splintered_elements: <a href="https://www.wowhead.com/spell=382042/splintered-elements" target="blank">Splintered Elements</a>
+splinter: <a href="https://www.wowhead.com/spell=382042/splintered-elements" target="blank">Splintered Elements</a>
+
+stone_bulwark_totem: <a href="https://www.wowhead.com/beta/spell=108270/stone-bulwark-totem" target="blank">Stone Bulwark Totem</a>
+sbt: <a href="https://www.wowhead.com/beta/spell=108270/stone-bulwark-totem" target="blank">Stone Bulwark Totem</a>
+
+surge_of_power: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
+sop: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
 
 stoneskin_totem: <a href="https://www.wowhead.com/spell=383017/stoneskin-totem" target="blank">Stoneskin Totem</a>
 
@@ -425,12 +429,20 @@ surging_shields: <a href="https://www.wowhead.com/spell=382033/surging-shields" 
 
 swirling_currents: <a href="https://www.wowhead.com/spell=378094/swirling-currents" target="blank">Swirling Currents</a>
 
+thundershock: <a href="https://www.wowhead.com/spell=378779/thundershock" target="blank">Thundershock</a>
+
+totemic_recall: <a href="https://www.wowhead.com/spell=108285/totemic-recall" target="blank">Totemic Recall</a>
+
 tranquil_air_totem: <a href="https://www.wowhead.com/spell=383019/tranquil-air-totem" target="blank">Tranquil Air Totem</a>
+
+traveling_storms: <a href="https://www.wowhead.com/spell=204403" target="blank">Traveling Storms</a>
 
 tumultuous_fissures: <a href="https://www.wowhead.com/spell=381743/tumultuous-fissures" target="blank">Tumultuous Fissures</a>
 
 unlimited_power: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
 up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
+
+unrelenting_calamity: <a href="https://www.wowhead.com/spell=382685/unrelenting-calamity" target="blank">Unrelenting Calamity</a>
 
 windspeakers_lava_resurgence: <a href="https://www.wowhead.com/spell=378268/windspeakers-lava-resurgence" target="blank">Windspeaker's Lava Resurgence</a>
 ws: <a href="https://www.wowhead.com/spell=378268/windspeakers-lava-resurgence" target="blank">Windspeaker's Lava Resurgence</a>
@@ -501,7 +513,7 @@ ancestral_swiftness: <a href="https://www.wowhead.com/spell=443454/ancestral-swi
 
 # Stormbringer
 tempest_spell: <a href="https://www.wowhead.com/spell=454009/tempest?spellModifier=137040" target="blank">Tempest</a>
-unlimited_power: <a href="https://www.wowhead.com/spell=454391/unlimited-power?spellModifier=137040" target="blank">Unlimited Power</a>
+unlimited_power_sb: <a href="https://www.wowhead.com/spell=454391/unlimited-power?spellModifier=137040" target="blank">Unlimited Power</a>
 stormcaller: <a href="https://www.wowhead.com/spell=454021/stormcaller?spellModifier=137040" target="blank">Stormcaller</a>
 lightning_conduit: <a href="https://www.wowhead.com/spell=467778/lightning-conduit" target="blank">Lightning Conduit</a>
 electroshock: <a href="https://www.wowhead.com/spell=454022/electroshock" target="blank">Electroshock</a>
